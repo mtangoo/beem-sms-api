@@ -1,3 +1,6 @@
+# NOTE: THIS REPO HAVE BEEN ARCHIVED IN FAVOR OF https://github.com/hosannahighertech/yii2-sms-senders
+
+
 # beem-sms-api
 Send SMS with easy using BEEM
 
